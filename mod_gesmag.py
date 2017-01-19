@@ -251,10 +251,10 @@ class Gesmag:
 
     def dbconfig(self):
         db_config = {
-            'user': 'invzz',
-            'password': 'ciaociao32',
-            'host': 'vps.andrescoronado.com',
-            'database': 'gesmag',
+            'user': '',
+            'password': '',
+            'host': '',
+            'database': '',
             'raise_on_warnings': True,
             }
         return db_config
